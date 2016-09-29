@@ -1,4 +1,4 @@
-# Curso de conversacao para programadores
+# Curso de conversação para programadores
 
 > Saber inglês, para programador, não é uma opção **é uma obrigação**. - Suissa
 
