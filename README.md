@@ -4,9 +4,9 @@
 
 Esse curso será focado apenas para programadores e será apenas de **conversação**!
 
-## Professora
+## Professor(a)
 
-Sim será uma professora e não o Suissa.
+> Não será o Suissa!
 
 ## Aulas
 
@@ -25,3 +25,6 @@ Cada aula terá um contexto onde o programador treinará seu inglês para futura
 - entrevista de emprego
 - chegada no aeroporto
 - reuniões de equipe (em um emprego)
+- defender sua tecnologia
+- convivência no hotel/hostel
+
