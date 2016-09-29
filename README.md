@@ -23,6 +23,7 @@ Cada aula terá um contexto onde o programador treinará seu inglês para futura
 ## Temas
 
 - entrevista de emprego
+- negociação de freela
 - chegada no aeroporto
 - reuniões de equipe (em um emprego)
 - defender sua tecnologia
