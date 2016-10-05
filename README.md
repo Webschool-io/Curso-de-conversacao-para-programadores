@@ -36,3 +36,15 @@ Cada aula terá um contexto onde o programador treinará seu inglês para futura
 - defender sua tecnologia
 - convivência no hotel/hostel
 
+## Turmas
+
+### Primeira (lotação)
+
+Temas:
+
+- entrevista de emprego: 5/8
+- negociação de freela: 5/8
+- chegada no aeroporto: 5/8
+- reuniões de equipe (em um emprego): 5/8
+- defender sua tecnologia: 5/8
+- convivência no hotel/hostel: 5/8
