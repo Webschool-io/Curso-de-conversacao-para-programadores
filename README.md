@@ -8,6 +8,9 @@ Esse curso será focado apenas para programadores e será apenas de **conversaç
 
 > Não será o Suissa!
 
+Nome: Graziela Camargo
+Experiência: 10 anos
+
 ## Aulas
 
 Cada aula terá uma hora e será passado exercícios gramáticais de leitura e escrita.
