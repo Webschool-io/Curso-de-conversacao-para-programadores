@@ -44,7 +44,7 @@ Temas:
 
 - entrevista de emprego: 5/8
 - negociação de freela: 5/8
-- chegada no aeroporto: 5/8
+- chegada no aeroporto: 4/8
 - reuniões de equipe (em um emprego): 5/8
 - defender sua tecnologia: 5/8
-- convivência no hotel/hostel: 5/8
+- convivência no hotel/hostel: 4/8
