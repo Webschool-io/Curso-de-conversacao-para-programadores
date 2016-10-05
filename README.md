@@ -23,6 +23,10 @@ O aluno poderá escolher/pagar apenas as aulas que lhe interesse.
 
 Cada aula terá um contexto onde o programador treinará seu inglês para futuramente poder trabalhar na gringa.
 
+## Início
+
+> As aulas iniciarão em 31 de Outubro de 2016.
+
 ## Temas
 
 - entrevista de emprego
