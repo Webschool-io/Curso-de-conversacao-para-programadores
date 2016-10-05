@@ -23,6 +23,12 @@ O aluno poderá escolher/pagar apenas as aulas que lhe interesse.
 
 Cada aula terá um contexto onde o programador treinará seu inglês para futuramente poder trabalhar na gringa.
 
+### Pagamento
+
+O pagamento deverá ser feito diretamente para a conta corrente da professora.
+
+Dados serão enviados diretamente para cada aluno.
+
 ## Início
 
 > As aulas iniciarão em 31 de Outubro de 2016.
