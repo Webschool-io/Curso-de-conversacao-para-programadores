@@ -48,9 +48,9 @@ Dados serão enviados diretamente para cada aluno.
 
 Temas:
 
-- entrevista de emprego: 5/8
-- negociação de freela: 5/8
-- chegada no aeroporto: 4/8
-- reuniões de equipe (em um emprego): 5/8
-- defender sua tecnologia: 5/8
-- convivência no hotel/hostel: 4/8
+- entrevista de emprego: 7/8
+- negociação de freela: 7/8
+- chegada no aeroporto: 6/8
+- reuniões de equipe (em um emprego): 7/8
+- defender sua tecnologia: 7/8
+- convivência no hotel/hostel: 6/8
