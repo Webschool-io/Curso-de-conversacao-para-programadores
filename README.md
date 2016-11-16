@@ -31,7 +31,7 @@ Dados serão enviados diretamente para cada aluno.
 
 ## Início
 
-> As aulas iniciarão em 31 de Outubro de 2016.
+> As aulas iniciarão em Dezembro de 2016.
 
 ## Temas
 
